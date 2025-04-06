@@ -93,7 +93,7 @@ Steam = select,🌐 全球直连,🇭🇰 香港节点,🇺🇸 美国节点,�
 
 [Rule]
 RULE-SET,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/ProxyGFWlist.list,🚀 节点选择
-RULE-SET,https://raw.githubusercontent.com/Aethersailor/Custom_OpenClash_Rules/main/Rule/Custom_Proxy.list,🚀 节点选择
+RULE-SET,https://raw.githubusercontent.com/SomersaultCloud-Zcf/Rules/refs/heads/main/Custom_Proxy.list,🚀 节点选择
 
 RULE-SET,https://raw.githubusercontent.com/SomersaultCloud-Zcf/Rules/refs/heads/main/Custom_Direct.list,DIRECT
 RULE-SET,https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Shadowrocket/Lan/Lan.list,DIRECT
