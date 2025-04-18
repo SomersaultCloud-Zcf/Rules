@@ -7,6 +7,8 @@
 # DOMAIN-SUFFIX: 126
 # USER-AGENT: 1
 # TOTAL: 218
+DOMAIN,hsbc.com
+DOMAIN,hsbc.com.hk
 DOMAIN,ad.10010.com
 DOMAIN,ad.12306.cn
 DOMAIN,ain.bgm.tv
