@@ -67,6 +67,7 @@ DOMAIN-SUFFIX,hsbc.com
 DOMAIN-SUFFIX,hsbc.com.hk
 DOMAIN-SUFFIX,binance.com
 DOMAIN-SUFFIX,hsbc.com.hk
+DOMAIN-SUFFIX,wise.com
 DOMAIN-SUFFIX,52pt.site
 DOMAIN-SUFFIX,acg.rip
 DOMAIN-SUFFIX,acm.org
@@ -195,6 +196,7 @@ DOMAIN-SUFFIX,wiley.com
 DOMAIN-SUFFIX,xunlei.com
 DOMAIN-KEYWORD,hsbc
 DOMAIN-KEYWORD,binance
+DOMAIN-KEYWORD,wise
 DOMAIN-KEYWORD,anti-ad.net
 DOMAIN-KEYWORD,api-adservices.apple.com
 DOMAIN-KEYWORD,api.smoot.apple.cn
