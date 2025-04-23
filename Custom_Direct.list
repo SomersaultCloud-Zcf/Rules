@@ -66,9 +66,6 @@ DOMAIN,vd.l.qq.com
 DOMAIN,vi.l.qq.com
 DOMAIN,vip.ffzyread.com
 DOMAIN,vip.imgffzy.com
-DOMAIN-SUFFIX,hsbc.com
-DOMAIN-SUFFIX,hsbc.com.hk
-DOMAIN-SUFFIX,binance.com
 DOMAIN-SUFFIX,52pt.site
 DOMAIN-SUFFIX,acg.rip
 DOMAIN-SUFFIX,acm.org
@@ -195,8 +192,6 @@ DOMAIN-SUFFIX,weather-data.apple.com
 DOMAIN-SUFFIX,weather-map.apple.com
 DOMAIN-SUFFIX,wiley.com
 DOMAIN-SUFFIX,xunlei.com
-DOMAIN-KEYWORD,hsbc
-DOMAIN-KEYWORD,binance
 DOMAIN-KEYWORD,anti-ad.net
 DOMAIN-KEYWORD,api-adservices.apple.com
 DOMAIN-KEYWORD,api.smoot.apple.cn
