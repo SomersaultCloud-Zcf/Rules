@@ -191,6 +191,7 @@ DOMAIN-SUFFIX,wiley.com
 DOMAIN-SUFFIX,xunlei.com
 DOMAIN-SUFFIX,hsbc.com
 DOMAIN-SUFFIX,binance.com
+DOMAIN-SUFFIX,longbridge.com
 DOMAIN-SUFFIX,wise.com
 DOMAIN-SUFFIX,boc.cn
 DOMAIN-SUFFIX,bochk.com
@@ -199,6 +200,7 @@ DOMAIN-SUFFIX,icbcasia.com
 DOMAIN-KEYWORD,hsbc
 DOMAIN-KEYWORD,hsbc.com.hk
 DOMAIN-KEYWORD,binance
+DOMAIN-KEYWORD,longbridge
 DOMAIN-KEYWORD,wise
 DOMAIN-KEYWORD,boc
 DOMAIN-KEYWORD,bochk
