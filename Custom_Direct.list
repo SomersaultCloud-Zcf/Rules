@@ -66,8 +66,11 @@ DOMAIN,vip.imgffzy.com
 DOMAIN-SUFFIX,hsbc.com
 DOMAIN-SUFFIX,hsbc.com.hk
 DOMAIN-SUFFIX,binance.com
-DOMAIN-SUFFIX,hsbc.com.hk
 DOMAIN-SUFFIX,wise.com
+DOMAIN-SUFFIX,boc.cn
+DOMAIN-SUFFIX,bochk.com
+DOMAIN-SUFFIX,icbc.com.cn
+DOMAIN-SUFFIX,icbcasia.com
 DOMAIN-SUFFIX,52pt.site
 DOMAIN-SUFFIX,acg.rip
 DOMAIN-SUFFIX,acm.org
@@ -197,6 +200,10 @@ DOMAIN-SUFFIX,xunlei.com
 DOMAIN-KEYWORD,hsbc
 DOMAIN-KEYWORD,binance
 DOMAIN-KEYWORD,wise
+DOMAIN-KEYWORD,boc
+DOMAIN-KEYWORD,bochk
+DOMAIN-KEYWORD,icbc.com.cn
+DOMAIN-KEYWORD,icbcasia.com
 DOMAIN-KEYWORD,anti-ad.net
 DOMAIN-KEYWORD,api-adservices.apple.com
 DOMAIN-KEYWORD,api.smoot.apple.cn
