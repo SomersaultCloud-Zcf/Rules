@@ -189,7 +189,6 @@ DOMAIN-SUFFIX,weather-data.apple.com
 DOMAIN-SUFFIX,weather-map.apple.com
 DOMAIN-SUFFIX,wiley.com
 DOMAIN-SUFFIX,xunlei.com
-DOMAIN-SUFFIX,hsbc.com
 DOMAIN-SUFFIX,hsbc.com.hk
 DOMAIN-SUFFIX,binance.com
 DOMAIN-SUFFIX,wise.com
@@ -197,8 +196,6 @@ DOMAIN-SUFFIX,boc.cn
 DOMAIN-SUFFIX,bochk.com
 DOMAIN-SUFFIX,icbc.com.cn
 DOMAIN-SUFFIX,icbcasia.com
-DOMAIN-KEYWORD,hsbc
-DOMAIN-KEYWORD,hsbc.com.hk
 DOMAIN-KEYWORD,binance
 DOMAIN-KEYWORD,wise
 DOMAIN-KEYWORD,boc
