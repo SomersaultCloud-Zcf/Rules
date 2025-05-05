@@ -201,6 +201,7 @@ DOMAIN-SUFFIX,bank.za.group
 DOMAIN-SUFFIX,airstarbank.com
 DOMAIN-SUFFIX,fusionbank.com
 DOMAIN-SUFFIX,welab.bank
+DOMAIN-SUFFIX,alipayhk.com
 DOMAIN-KEYWORD,hsbc
 DOMAIN-KEYWORD,binance
 DOMAIN-KEYWORD,alipayhk
@@ -213,6 +214,7 @@ DOMAIN-KEYWORD,icbcasia
 DOMAIN-KEYWORD,airstarbank
 DOMAIN-KEYWORD,fusionbank
 DOMAIN-KEYWORD,welab
+DOMAIN-KEYWORD,alipayhk
 DOMAIN-KEYWORD,anti-ad.net
 DOMAIN-KEYWORD,api-adservices.apple.com
 DOMAIN-KEYWORD,api.smoot.apple.cn
