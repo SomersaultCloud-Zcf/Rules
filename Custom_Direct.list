@@ -197,6 +197,11 @@ DOMAIN-SUFFIX,boc.cn
 DOMAIN-SUFFIX,bochk.com
 DOMAIN-SUFFIX,icbc.com.cn
 DOMAIN-SUFFIX,icbcasia.com
+DOMAIN-SUFFIX,bank.za.group
+DOMAIN-SUFFIX,antbank.hk
+DOMAIN-SUFFIX,airstarbank.com
+DOMAIN-SUFFIX,fusionbank.com
+DOMAIN-SUFFIX,welab.bank
 DOMAIN-KEYWORD,hsbc
 DOMAIN-KEYWORD,binance
 DOMAIN-KEYWORD,alipayhk
@@ -206,6 +211,9 @@ DOMAIN-KEYWORD,boc
 DOMAIN-KEYWORD,bochk
 DOMAIN-KEYWORD,icbc
 DOMAIN-KEYWORD,icbcasia
+DOMAIN-KEYWORD,antbank
+DOMAIN-KEYWORD,airstarbank
+DOMAIN-KEYWORD,fusionbank
 DOMAIN-KEYWORD,anti-ad.net
 DOMAIN-KEYWORD,api-adservices.apple.com
 DOMAIN-KEYWORD,api.smoot.apple.cn
